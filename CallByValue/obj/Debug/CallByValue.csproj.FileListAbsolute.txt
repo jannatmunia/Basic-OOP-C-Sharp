@@ -1,0 +1,7 @@
+E:\Munia@ite\OOP C#\CallByValue\bin\Debug\CallByValue.exe.config
+E:\Munia@ite\OOP C#\CallByValue\bin\Debug\CallByValue.exe
+E:\Munia@ite\OOP C#\CallByValue\bin\Debug\CallByValue.pdb
+E:\Munia@ite\OOP C#\CallByValue\obj\Debug\CallByValue.csprojAssemblyReference.cache
+E:\Munia@ite\OOP C#\CallByValue\obj\Debug\CallByValue.csproj.CoreCompileInputs.cache
+E:\Munia@ite\OOP C#\CallByValue\obj\Debug\CallByValue.exe
+E:\Munia@ite\OOP C#\CallByValue\obj\Debug\CallByValue.pdb
