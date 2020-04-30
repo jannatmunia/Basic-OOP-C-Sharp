@@ -1,0 +1,7 @@
+E:\Munia@ite\OOP C#\MultipleValuesFromSingleMethod\bin\Debug\MultipleValuesFromSingleMethod.exe.config
+E:\Munia@ite\OOP C#\MultipleValuesFromSingleMethod\bin\Debug\MultipleValuesFromSingleMethod.exe
+E:\Munia@ite\OOP C#\MultipleValuesFromSingleMethod\bin\Debug\MultipleValuesFromSingleMethod.pdb
+E:\Munia@ite\OOP C#\MultipleValuesFromSingleMethod\obj\Debug\MultipleValuesFromSingleMethod.csprojAssemblyReference.cache
+E:\Munia@ite\OOP C#\MultipleValuesFromSingleMethod\obj\Debug\MultipleValuesFromSingleMethod.csproj.CoreCompileInputs.cache
+E:\Munia@ite\OOP C#\MultipleValuesFromSingleMethod\obj\Debug\MultipleValuesFromSingleMethod.exe
+E:\Munia@ite\OOP C#\MultipleValuesFromSingleMethod\obj\Debug\MultipleValuesFromSingleMethod.pdb
