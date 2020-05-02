@@ -1,0 +1,7 @@
+E:\Munia@ite\OOP C#\PassingArrayIn_Method\bin\Debug\PassingArrayIn_Method.exe.config
+E:\Munia@ite\OOP C#\PassingArrayIn_Method\bin\Debug\PassingArrayIn_Method.exe
+E:\Munia@ite\OOP C#\PassingArrayIn_Method\bin\Debug\PassingArrayIn_Method.pdb
+E:\Munia@ite\OOP C#\PassingArrayIn_Method\obj\Debug\PassingArrayIn_Method.csprojAssemblyReference.cache
+E:\Munia@ite\OOP C#\PassingArrayIn_Method\obj\Debug\PassingArrayIn_Method.csproj.CoreCompileInputs.cache
+E:\Munia@ite\OOP C#\PassingArrayIn_Method\obj\Debug\PassingArrayIn_Method.exe
+E:\Munia@ite\OOP C#\PassingArrayIn_Method\obj\Debug\PassingArrayIn_Method.pdb
